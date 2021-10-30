@@ -11,7 +11,7 @@ Olá,eu me chamo Helder e atualmente estou cursando  o curso de Desenvolvimento 
 - :monocle_face: Gosto de ouvir as experiências das outra pessoas;
 - 📫 Moro em São Paulo-SP na região de Guaianazes;
 - :slightly_smiling_face: Eu gosto da cultura nerd no geral; 
-- ⚡ Nas horas vagas eu programa na URI Online Judge;
+- ⚡ Nas horas vagas eu programo na URI Online Judge e estudo mais sobre as linguagens de programação;
 - :ng_man: Futuro campeão da Oracle.
 
 ![Helder's github stats](https://github-readme-stats.vercel.app/api?username=Uken49&show_icons=true&theme=material-palenight)
