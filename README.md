@@ -19,4 +19,3 @@ Olá,eu me chamo Helder e atualmente estou cursando  o curso de Desenvolvimento 
 <br>
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/OAnciao)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/helder-alvarenga/)
-[![HitCount](http://hits.dwyl.com/Helder/Uken49.svg)](http://hits.dwyl.com/Helder/Uken49)
