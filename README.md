@@ -9,9 +9,10 @@ Olá,eu me chamo Helder e atualmente estou cursando  o curso de Desenvolvimento 
 - :nerd_face: Estou buscando maneiras de melhorar as minhas habilidades;
 - :sunglasses: Atualmente estou cursando o Ensino Médio e o Curso Técnico;
 - :monocle_face: Gosto de ouvir as experiências das outra pessoas;
-- 📫 Moro em São Paulo-SP na região de Guaianazes;
+- 📫 Moro em São Paulo na zona leste;
 - :slightly_smiling_face: Eu gosto da cultura nerd no geral; 
-- ⚡ Nas horas vagas eu programo na URI Online Judge e estudo mais sobre as linguagens de programação;
+- ⚡ Programador back-end.
+
 
 ![Helder's github stats](https://github-readme-stats.vercel.app/api?username=Uken49&show_icons=true&theme=material-palenight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uken49&langs_count=10&layout=compact&theme=material-palenight)](https://github.com/Uken49/github-readme-stats)
