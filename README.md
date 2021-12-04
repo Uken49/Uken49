@@ -7,7 +7,7 @@ Olá,eu me chamo Helder e atualmente estou cursando  o curso de Desenvolvimento 
 <br />
 
 - :nerd_face: Estou buscando maneiras de melhorar as minhas habilidades;
-- :sunglasses: Atualmente estou cursando o Ensino Médio e o Curso Técnico;
+- :sunglasses: Atualmente sou técnico em desenvolvimento de sistemas,cursado na Etec de Guaianazes;
 - :monocle_face: Gosto de ouvir as experiências das outra pessoas;
 - 📫 Moro em São Paulo na zona leste;
 - :slightly_smiling_face: Eu gosto da cultura nerd no geral; 
