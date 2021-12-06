@@ -62,5 +62,5 @@ Olá,eu me chamo Helder e atualmente sou Técnico em Desenvolvimento de Sistemas
  <h3> Visitantes </h3>  
    
  <div>
-  <img align="center" height="30" width="150" src="https://komarev.com/ghpvc/?username=Uken49&color=green" alt="Uken49"> <br>
+  <img align="center" height="25" width="90" src="https://komarev.com/ghpvc/?username=Uken49&color=green&label=Visitas" alt="Uken49"> <br>
  </div>
