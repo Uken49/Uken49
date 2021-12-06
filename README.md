@@ -2,20 +2,64 @@
 <!--
 **Uken49/Uken49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Olá,eu me chamo Helder e atualmente estou cursando  o curso de Desenvolvimento de Sistemas na Etec de Guaianazes
+Olá,eu me chamo Helder e atualmente sou Técnico em Desenvolvimento de Sistemas,curso realizado na Etec de Guaianazes.
 
-<br />
+<!-- Apresentação -->
+- :nerd_face: Estou buscando maneiras de melhorar as minhas habilidades <br>
+- :sunglasses: Atualmente sou técnico em desenvolvimento de sistemas,cursado na Etec de Guaianazes <br>
+- :monocle_face: Gosto de ouvir as experiências das outra pessoas <br>
+- 📫 Moro em São Paulo na zona leste <br>
+- :slightly_smiling_face: Eu gosto da cultura nerd no geral <br>
+- ⚡ Programador back-end <br>
+- 🌱 Estudando novas tecnologias como: Python,CSS, JavaScript e nodeJS <br>
+- 🤞 Em Fase de transição de carreira e em busca da primeira oportunidade ✨✨✨✨✨✨✨ <br><br>
 
-- :nerd_face: Estou buscando maneiras de melhorar as minhas habilidades;
-- :sunglasses: Atualmente sou técnico em desenvolvimento de sistemas,cursado na Etec de Guaianazes;
-- :monocle_face: Gosto de ouvir as experiências das outra pessoas;
-- 📫 Moro em São Paulo na zona leste;
-- :slightly_smiling_face: Eu gosto da cultura nerd no geral; 
-- ⚡ Programador back-end.
+<!-- Painel de Trabalhos -->
+
+<div>
+ <a href="https://github.com/Uken49">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Uken49&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uken49&layout=compact&langs_count=7&theme=material-palenight">
+</div> <br>
+
+<!-- Contatos --> 
+
+<div>
+  <a href="https://www.facebook.com/OAnciao"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+ <a href="mailto:heldergavioes@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/helder-alvarenga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://api.whatsapp.com/send?phone=5511969181772&text=T%C3%A9cnico%20em%20Desenvolvimento%20de%20Sistemas%20-%20Helder%20D.R.%20Alvarenga" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+
+ <br>
+  
+<!-- Tecnologias -->  
+<div style="display: inline_block">
+  
+ <h3> Back-end </h3>
+  <img align="center" alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+ <hr>
+
+ <h3> Front-end </h3>
+
+ <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+ <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+ <img align="center" alt="Bootstrp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain-wordmark.svg">
+
+ <hr>
+
+  <h3> IDE </h3>  
+  <img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="MySQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 
 
-![Helder's github stats](https://github-readme-stats.vercel.app/api?username=Uken49&show_icons=true&theme=material-palenight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uken49&langs_count=10&layout=compact&theme=material-palenight)](https://github.com/Uken49/github-readme-stats)
-<br>
-[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/OAnciao)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/helder-alvarenga/)
+  <hr>
+
+ <!-- Contador de visitas -->
+ <h3> Visitantes </h3>  
+   
+ <div>
+  <img align="center" height="30" width="150" src="https://komarev.com/ghpvc/?username=Uken49&color=green" alt="Uken49"> <br>
+ </div>
