@@ -11,7 +11,7 @@ Olá,eu me chamo Helder e atualmente sou Técnico em Desenvolvimento de Sistemas
 - 📫 Moro em São Paulo na zona leste <br>
 - :slightly_smiling_face: Eu gosto da cultura nerd no geral <br>
 - ⚡ Programador back-end <br>
-- 🌱 Estudando novas tecnologias como: Python,CSS, JavaScript e nodeJS <br>
+- 🌱 Estudando novas tecnologias como: Java e nodeJS <br>
 - 🤞 Em Fase de transição de carreira e em busca da primeira oportunidade ✨✨✨✨✨✨✨ <br><br>
 
 <!-- Painel de Trabalhos -->
@@ -39,8 +39,11 @@ Olá,eu me chamo Helder e atualmente sou Técnico em Desenvolvimento de Sistemas
  <h3> Back-end </h3>
   <img align="center" alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+  <!--
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  -->
  <hr>
 
  <h3> Front-end </h3>
@@ -50,18 +53,7 @@ Olá,eu me chamo Helder e atualmente sou Técnico em Desenvolvimento de Sistemas
  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
  <img align="center" alt="Bootstrp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain-wordmark.svg">
 
- <hr>
-
+<hr>
   <h3> IDE </h3>  
   <img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="MySQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-
-
-  <hr>
-
- <!-- Contador de visitas -->
- <h3> Visitantes </h3>  
-   
- <div>
-  <img align="center" height="25" width="90" src="https://komarev.com/ghpvc/?username=Uken49&color=green&label=Visitas" alt="Uken49"> <br>
- </div>
