@@ -11,7 +11,7 @@ Olá,eu me chamo Helder e atualmente sou Técnico em Desenvolvimento de Sistemas
 - 📫 Moro em São Paulo na zona leste <br>
 - :slightly_smiling_face: Eu gosto da cultura nerd no geral <br>
 - ⚡ Programador back-end <br>
-- 🌱 Estudando novas tecnologias como: Java e nodeJS <br>
+- 🌱 Estudando novas tecnologias como: NodeJS e futuramente Python <br>
 - 🤞 Em Fase de transição de carreira e em busca da primeira oportunidade ✨✨✨✨✨✨✨ <br><br>
 
 <!-- Painel de Trabalhos -->
@@ -42,8 +42,9 @@ Olá,eu me chamo Helder e atualmente sou Técnico em Desenvolvimento de Sistemas
   <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   <!--
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   -->
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  
  <hr>
 
  <h3> Front-end </h3>
