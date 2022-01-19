@@ -2,7 +2,7 @@
 <!--
 **Uken49/Uken49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Olá,eu me chamo Helder e atualmente sou Técnico em Desenvolvimento de Sistemas,curso realizado na Etec de Guaianazes.
+Olá,eu me chamo Helder e atualmente sou Técnico em Desenvolvimento de Sistemas pela Etec de Guaianazes.
 
 <!-- Apresentação -->
 - :nerd_face: Estou buscando maneiras de melhorar as minhas habilidades <br>
