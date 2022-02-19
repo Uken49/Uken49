@@ -5,6 +5,9 @@
 Olá,eu me chamo Helder e atualmente sou Técnico em Desenvolvimento de Sistemas pela Etec de Guaianazes. Atualmente estou curso bacharelado em Sistemas da Informação pela 
 SPTECH.
 
+Criei uma conta para fins acadêmicos à pedido da SPTECH, com isso, estarei postando conteúdo tanto nessa conta quanto na outra (minha conta institucional)
+Conta Institucional: [Helder!](https://github.com/UkenSPTECH)
+
 <!-- Apresentação -->
 - :nerd_face: Estou buscando maneiras de melhorar as minhas habilidades <br>
 - :sunglasses: Técnico em desenvolvimento de sistemas e futuro bacharel <br>
