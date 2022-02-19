@@ -2,17 +2,18 @@
 <!--
 **Uken49/Uken49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Olá,eu me chamo Helder e atualmente sou Técnico em Desenvolvimento de Sistemas pela Etec de Guaianazes.
+Olá,eu me chamo Helder e atualmente sou Técnico em Desenvolvimento de Sistemas pela Etec de Guaianazes. Atualmente estou curso bacharelado em Sistemas da Informação pela 
+SPTECH.
 
 <!-- Apresentação -->
 - :nerd_face: Estou buscando maneiras de melhorar as minhas habilidades <br>
-- :sunglasses: Atualmente sou técnico em desenvolvimento de sistemas,cursado na Etec de Guaianazes <br>
+- :sunglasses: Técnico em desenvolvimento de sistemas e futuro bacharel <br>
 - :monocle_face: Gosto de ouvir as experiências das outra pessoas <br>
 - 📫 Moro em São Paulo na zona leste <br>
 - :slightly_smiling_face: Eu gosto da cultura nerd no geral <br>
 - ⚡ Programador back-end <br>
-- 🌱 Estudando novas tecnologias como: NodeJS e futuramente Python <br>
-- 🤞 Em Fase de transição nos estudos e em busca da primeira oportunidade ✨✨✨✨✨✨✨ <br><br>
+- 🌱 Focando na faculdade para um melhor desenvolvimento profissional <br>
+- 🤞 Em Fase de transição como profissional e indivíduo ✨✨✨✨✨✨✨ <br><br>
 
 <!-- Painel de Trabalhos -->
 
