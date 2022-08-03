@@ -11,7 +11,7 @@ SPTECH.
 - :monocle_face: Gosto de ouvir as experiências das outra pessoas <br>
 - 📫 Moro em São Paulo na zona leste <br>
 - :slightly_smiling_face: Curto a cultura nerd no geral <br>
-- ⚡ Programador full-stack, estudando atualmente Java POO <br>
+- ⚡ Programador full-stack, estudando atualmente Java POO, Python e R <br>
 - 🌱 Focando na faculdade para um melhor desenvolvimento profissional <br>
 - 🤞 Em Fase de transição como profissional e indivíduo ✨✨✨✨✨✨✨ <br><br>
 
