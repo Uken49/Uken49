@@ -2,7 +2,7 @@
 <!--
 **Uken49/Uken49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Olá,eu me chamo Helder e sou formado como Técnico em Desenvolvimento de Sistemas pela Etec de Guaianazes. Atualmente estou curso bacharelado em Ciência da Computação pela SPTECH.
+Olá,eu me chamo Helder e sou formado como Técnico em Desenvolvimento de Sistemas pela Etec de Guaianazes. Atualmente estou cursando bacharelado em Ciência da Computação pela SPTECH.
 
 <!-- Apresentação -->
 - :nerd_face: Estou buscando maneiras de melhorar as minhas habilidades <br>
@@ -11,7 +11,7 @@ Olá,eu me chamo Helder e sou formado como Técnico em Desenvolvimento de Sistem
 - 📫 Moro em São Paulo na zona leste <br>
 - :slightly_smiling_face: Curto a cultura nerd no geral <br>
 - 🌱 Focando na faculdade para um melhor desenvolvimento profissional <br>
-- 🤞 Atualmente trabalho na empresa Jazz Tech como back-end developer ✨✨✨✨✨✨✨ <br><br>
+- 🤞 Atualmente trabalho na empresa JazzTech como back-end developer ✨✨✨✨✨✨✨ <br><br>
 
 <!-- Painel de Trabalhos -->
 
